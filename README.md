@@ -86,7 +86,7 @@ the backend automatically. Set these environment variables on the instance:
 ```bash
 DB_HOST=your-rds-endpoint.rds.amazonaws.com
 DB_USER=admin
-DB_PASSWORD=PocketLedger2024!
+DB_PASSWORD=yourpassword
 DB_NAME=pocketledger
 PORT=4000
 ```
